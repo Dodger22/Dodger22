@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dodger22
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL, Machine Learning etc.
+- 🌱 I’m currently learning Python.
 - 📫 Mail: mirzaozeer@gmail.com
 
 <!---
