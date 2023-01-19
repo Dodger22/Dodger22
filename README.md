@@ -1,4 +1,4 @@
-<h1 align="center">Hello folks I am Mirza ❗💥</h1>
+<h1 align="center">Hello folks, I am Mirza ❗💥</h1>
 <h3 align="center">A passionate Data Scientist from Space 👽🚀</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
